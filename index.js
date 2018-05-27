@@ -1,16 +1,16 @@
 const milks = [
-  'CorkMilk.png',
-  'FurMilk.png',
   'GoldMilk.png',
   'MarbleMilk.png',
   'MetalMilk.png',
-  'WaterMilk.png',
-  'FabricMilk.png',
   'GlassMilk.png',
-  'LeatherMilk.png',
-  'MarbleMilk2.png',
-  'StoneMilk.png',
+  'FurMilk.png',
+  'FabricMilk.png',
+  'WaterMilk.png',
   'WoodMilk.png',
+  'CorkMilk.png',
+  'MarbleMilk2.png',
+  'LeatherMilk.png',
+  'StoneMilk.png',
 ];
 
 $(document).ready(function() {
