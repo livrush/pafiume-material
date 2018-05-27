@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.material {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+}
