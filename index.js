@@ -14,6 +14,7 @@ const milks = [
 ];
 
 $(document).ready(function() {
-  const $milks = milks.map(milk => $('<div>').addClass('material').css('background-image', `url(/assets/${milk})`));
+  $('#loading').remove();
+  const $milks = milks.map(milk => $('<div>').addClass('material').css('background-image', `url(./assets/${milk})`));
   $('body').append($milks);
 });
